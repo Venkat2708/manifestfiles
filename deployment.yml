@@ -4,7 +4,7 @@ kind: Deployment
 metadata:
   name: mydeploy
   annotations:
-    kubernetes.io/change-cause: "cost estimator image added"
+    kubernetes.io/change-cause: "Train ticket booking image added"
 spec:
   replicas: 5
   selector:
