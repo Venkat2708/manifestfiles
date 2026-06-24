@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
         - name: cont3
-          image: venkat2708/train-ticket-booking:v2
+          image: shaikmustafa/paytm:bus
           ports:
             - containerPort: 80
